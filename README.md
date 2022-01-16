@@ -5,4 +5,4 @@ Task Tracker app created using React library.
 * You can remove task
 
 ### Demo
-[https://task-tracker-by-tejas.netlify.app/]
+[Try here](https://task-tracker-by-tejas.netlify.app/)
